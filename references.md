@@ -1,6 +1,4 @@
-TEST 
-IS
-A
-MERGE
-CONFLICT
-TEST
+# References
+
+* octocat 1 😈
+
